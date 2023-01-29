@@ -1,0 +1,88 @@
+*{
+    background: #222222;
+}
+
+.main {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.container {
+    text-align: center;
+}
+
+.section1 {
+/*    font-family: 'Courier Prime', monospace; */
+    font-family: 'Libre Baskerville', serif;    
+    font-size: 22px;
+
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section2 {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 22px;
+
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section3 {
+    font-size: 22px;
+
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    color: #fbf1c7;
+
+    font-size: 22px;
+/*    font-style: italic; */
+    line-height: 1fr;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: underline;
+    text-decoration-color: #444444;
+}
+
+.subtitle {
+    color: #fbf1c7;
+
+    font-family: 'Libre Baskerville', serif;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 1fr;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.blog-text {
+    color: #fbf1c7;
+
+    font-family: 'Libre Baskerville', serif;
+    font-size: 12px;
+    line-height: normal;
+    justify-content: end;
+    margin-bottom: 20px;
+}
+
+.blog-text-link {
+    color: #fe8019;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 12px;
+    line-height: 20px;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+    text-decoration-color: #444444;
+}
